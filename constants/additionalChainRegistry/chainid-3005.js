@@ -14,11 +14,11 @@ export const data ={
   "shortName": "bgg",
   "chainId": 3005,
   "networkId": 3005,
-  "icon": "bgg",
+  "icon": "https://space.bitgoget.xyz/icons/bgg_icon.png",
   "explorers": [{
     "name": "bggchain",
     "url": "https://bggscan.com/",
-    "icon": "bgg",
+    "icon": "https://space.bitgoget.xyz/icons/bgg_icon.png",
     "standard": "EIP3091"
   }]
 }
